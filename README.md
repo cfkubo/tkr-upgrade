@@ -24,3 +24,11 @@ https://knowledge.broadcom.com/external/article/397456/the-vmware-vsphere-kubern
 
 https://support.broadcom.com/group/ecx/productlifecycle
 
+
+https://interopmatrix.broadcom.com/Interoperability?col=820,&row=2,&isHidePatch=true&isHideGenSupported=false&isHideTechSupported=false&isHideCompatible=false&isHideNTCompatible=false&isHideIncompatible=false&isHideNotSupported=true&isCollection=false&isHideLegacyReleases=false
+
+
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere-supervisor/7-0/release-notes/vmware-tkrs-release-notes.html#GUID-db569c2a-b15e-4281-8572-ba293c831c1e-en_id-51e48565-2151-41c6-ac83-092edae888ca
+
+
+
