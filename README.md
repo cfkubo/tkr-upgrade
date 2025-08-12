@@ -13,6 +13,7 @@ This tool helps in managing the upgrade process for TKR ( Tanzu Kubernetes Relea
 ```
 python -m venv venv
 source venv/bin/activate
+pip3 install -r requirements.txt
 ```
 
 
