@@ -8,6 +8,9 @@ This tool helps in managing the upgrade process for TKR ( Tanzu Kubernetes Relea
 
 ![Upgrade Path](static/upgrade.png)
 
+#### Requiremnts
+- Python 3.13.x
+
 
 ### Create a virtual environment and activate it
 ```
