@@ -1,6 +1,6 @@
 # TKR/VKR Upgrade Tool 
 
-NOTE: This tool is not supported by VMware. Use at your own risk.
+NOTE: This tool is not supported by VMware. Use at your own risk. Please verify the output via Upgrade Compatibility VKR/TKR: 
 ## Overview
 
 This tool helps in managing the upgrade process for TKR ( Tanzu Kubernetes Release ) / VKR clusters by providing a user-friendly interface to visualize compatibility and upgrade paths. It provides functionalities to upload a CSV file containing version information, extract the necessary data, and generate visual representations of the upgrade path.
